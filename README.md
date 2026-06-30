@@ -4,19 +4,16 @@
 ### *Human Experience. AI Amplified.*
 
 The **ACT Security Toolkit** is an open-source collection of tools, prompts, automations, and practical guidance designed to help security professionals **build, operate, and mature Insider Threat programs**.
-
 Built from real-world experience engineering Insider Threat capabilities, this toolkit focuses on applying modern AI, Microsoft security technologies, and automation to reduce repetitive work, improve consistency, and accelerate investigations—while keeping human expertise at the center of every decision.
-
 Although Insider Threat is the primary focus, the toolkit also includes resources for Microsoft Graph, Microsoft Purview, PowerShell, Python, prompt engineering, reporting, and defensive security engineering.
-
 This project is intended for security analysts, Insider Threat investigators, Microsoft security administrators, engineers, architects, and leaders looking to responsibly integrate AI into modern security operations.
 
 ---
 
 # Vision
 
-The long-term vision of the ACT Security Toolkit is to become a comprehensive open-source resource for organizations at every stage of their Insider Threat journey.
-
+The ACT Security Toolkit aims to become the definitive open-source resource for building, operating, and maturing Insider Threat programs.
+By combining practical engineering, Microsoft security technologies, automation, and responsible use of artificial intelligence, the toolkit helps organizations reduce operational overhead, improve investigative consistency, and strengthen Insider Threat capabilities.
 Whether you're:
 
 - Learning what an Insider Threat program is
@@ -26,7 +23,7 @@ Whether you're:
 - Automating repetitive workflows
 - Exploring responsible uses of AI in security
 
-the ACT Security Toolkit is designed to provide practical, real-world resources that can immediately improve security operations.
+the ACT Security Toolkit provides practical, real-world resources that can immediately improve Insider Threat operations.
 
 ---
 
